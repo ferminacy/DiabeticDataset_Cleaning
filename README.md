@@ -1,2 +1,6 @@
 # DiabeticDataset_Cleaning
-In the following dataset, the data is cleaned in order to continue to analysis and further visualizations
+In the following dataset, the data is 
+- Loaded
+- Cleaned
+- Analyzed
+- Visualization Creation
