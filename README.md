@@ -5,4 +5,4 @@ In the following dataset, the data is
 - Analyzed
 - Visualization Creation
 - 2.1 Clean Dataset
-- 2.2 Visualizations Included
+- 2.1 (2) Visualizations Included
